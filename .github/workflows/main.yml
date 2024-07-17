@@ -1,8 +1,13 @@
 name: Create Archive
-on: [push]
+on: 
+  push:
+    tags:
+    - '*'
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
     - uses: actions/checkout@master
     - name: Archive Release
@@ -11,9 +16,8 @@ jobs:
         type: 'zip'
         filename: 'Erethon-Resourcepack.zip'
         exclusions: '*.git*'
-    - uses: "marvinpinto/action-automatic-releases@latest"
+    - name: Upload Release
+      uses: ncipollo/release-action@v1.12.0
       with:
-        repo_token: "${{ secrets.GITHUB_TOKEN }}"
-        automatic_release_tag: "latest"
-        prerelease: false
-        title: "Erethon Resourcepack"
+        artifacts: "release.zip"
+        token: ${{ secrets.GITHUB_TOKEN }}
