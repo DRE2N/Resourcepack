@@ -8,13 +8,13 @@ jobs:
     - name: Archive Release
       uses: thedoctor0/zip-release@0.7.5
       with:
-        type: 'zip'
-        filename: 'Erethon-Resourcepack.zip'
-        exclusions: '*.git*'
+        type: "zip"
+        filename: "Erethon-Resourcepack.zip"
+        exclusions: "*.git*"
     - name: Upload Release
       uses: ncipollo/release-action@v1.12.0
       with:
-        artifacts: "release.zip"
+        artifacts: "Erethon-Resourcepack.zip"
         tag: latest
         allowUpdates: true
         replacesArtifacts: true
