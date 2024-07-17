@@ -16,4 +16,6 @@ jobs:
       with:
         artifacts: "release.zip"
         tag: latest
+        allowUpdates: true
+        replacesArtifacts: true
         token: ${{ secrets.GITHUB_TOKEN }}
