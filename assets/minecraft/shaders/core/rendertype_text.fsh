@@ -11,6 +11,7 @@ uniform vec4 ColorModulator;
 uniform float FogStart;
 uniform float FogEnd;
 uniform vec4 FogColor;
+uniform int FogShape;
 uniform vec2 ScreenSize;
 
 in float vertexDistance;

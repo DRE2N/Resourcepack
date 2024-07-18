@@ -46,7 +46,8 @@ void main() {
     vec4 vertex = vec4(Position, 1.0);
     vec4 vcolor = minecraft_mix_light(Light0_Direction, Light1_Direction, Normal, Color);
     gl_Position = ProjMat * ModelViewMat * vertex;
-    vertexDistance = fog_distance(ModelViewMat, IViewRotMat * Position, FogShape);
+	vec3 transformedPosition = (ModelViewMat * vertex).xyz;
+    vertexDistance = fog_distance(transformedPosition, FogShape);
     lightMapColor = texelFetch(Sampler2, UV2 / 16, 0);
     overlayColor = texelFetch(Sampler1, UV1, 0);
     normal = ProjMat * ModelViewMat * vec4(Normal, 0.0);
