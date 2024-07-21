@@ -52,7 +52,7 @@
       "model": "block/log/half_timbered_log_green"
     },
     "instrument=harp,note=17": {
-      "model": "block/sandstone+/chiseled_sandstone_1"
+      "model": "block/sandstone_plus/chiseled_sandstone_1"
     }
   }
 }
