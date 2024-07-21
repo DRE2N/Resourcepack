@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/Sandstone_plus/chiseled_sandstone_1",
-		"1": "block/Sandstone_plus/chiseled_sandstone_top_1",
-		"particle": "block/Sandstone_plus/chiseled_sandstone_1"
+		"0": "block/sandstone_plus/chiseled_sandstone_1",
+		"1": "block/sandstone_plus/chiseled_sandstone_top_1",
+		"particle": "block/sandstone_plus/chiseled_sandstone_1"
 	},
 	"elements": [
 		{
