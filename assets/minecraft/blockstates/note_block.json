@@ -51,7 +51,7 @@
     "instrument=harp,note=16": {
       "model": "block/log/half_timbered_log_green"
     },
-    "instrument=harp,note=16": {
+    "instrument=harp,note=17": {
       "model": "block/sandstone+/chiseled_sandstone_1"
     }
   }
