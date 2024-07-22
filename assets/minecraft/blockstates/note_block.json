@@ -56,9 +56,6 @@
     },
     "instrument=harp,note=18": {
       "model": "block/sandstone_plus/chiseled_sandstone_bricks"
-    },
-    "instrument=harp,note=19": {
-      "model": "block/leaves/golden_leaves_1"
     }
   }
 }
