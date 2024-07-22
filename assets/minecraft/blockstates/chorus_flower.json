@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "block/leaves/golden_leaves"
+    },
+    "age=1": {
+      "model": "block/leaves/red_leaves"
+    },
+    "age=2": {
+      "model": "block/leaves/white_flowers"
+    },
+    "age=3": {
+      "model": "block/leaves/yellow_flowers"
+    },
+    "age=4": {
+      "model": "block/leaves/pink_flowers"
+    },
+    "age=5": {
+      "model": "block/leaves/green_leaves"
+    }
+  }
+}

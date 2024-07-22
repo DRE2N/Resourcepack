@@ -1,0 +1,58 @@
+{
+ "variants": {
+    "instrument=harp,note=0": {
+      "model": "block/log/white_log"
+    },
+    "instrument=harp,note=1": {
+      "model": "block/greel_wall"
+    },
+    "instrument=harp,note=2": {
+      "model": "block/old_gold_block"
+    },
+    "instrument=harp,note=3": {
+      "model": "block/old_gold_block_1"
+    },
+    "instrument=harp,note=4": {
+      "model": "block/dirt_old_block"
+    },
+    "instrument=harp,note=5": {
+      "model": "block/schiefer"
+    },
+    "instrument=harp,note=6": {
+      "model": "block/cold_lava"
+    },
+    "instrument=harp,note=7": {
+      "model": "block/volcanic_ash_gray"
+    },
+    "instrument=harp,note=8": {
+      "model": "block/volcanic_ash_oxidized"
+    },
+    "instrument=harp,note=9": {
+      "model": "block/red_leaves_podzol"
+    },
+    "instrument=harp,note=10": {
+      "model": "block/red_leaves_moss"
+    },
+    "instrument=harp,note=11": {
+      "model": "block/gold_leaves_podzol"
+    },
+    "instrument=harp,note=12": {
+      "model": "block/gold_leaves_moss"
+    },
+    "instrument=harp,note=13": {
+      "model": "block/log/burned_log"
+    },
+    "instrument=harp,note=14": {
+      "model": "block/log/burned_wood"
+    },
+    "instrument=harp,note=15": {
+      "model": "block/log/half_timbered_log_blue"
+    },
+    "instrument=harp,note=16": {
+      "model": "block/log/half_timbered_log_green"
+    },
+    "instrument=harp,note=17": {
+      "model": "block/plants/test"
+    }
+  }
+}
