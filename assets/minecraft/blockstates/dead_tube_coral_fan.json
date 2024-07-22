@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "minecraft:block/plants/mushrooms",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "minecraft:block/plants/mushrooms"
+    },
+    "facing=south": {
+      "model": "minecraft:block/plants/mushrooms",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "minecraft:block/plants/mushrooms",
+      "y": 270
+    }
+  }
+}
