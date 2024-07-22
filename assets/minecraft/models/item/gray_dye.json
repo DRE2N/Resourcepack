@@ -1,0 +1,89 @@
+{
+    "parent": "item/generated",
+    "textures": {
+		"layer0": "minecraft:item/gray_dye"
+	},
+	"overrides": [
+        {
+            "predicate": { "custom_model_data": 1 },
+            "model":"item/icons/assassin_SPELL"
+		}, 
+        {
+            "predicate": { "custom_model_data": 2 },
+            "model":"item/icons/assassin_dagger_throw"
+		}, 
+	    {
+            "predicate": { "custom_model_data": 3 },
+            "model":"item/icons/assassin_dagger_storm"
+		},
+	    {
+            "predicate": { "custom_model_data": 4 },
+            "model":"item/icons/assassin_backstab"
+		},
+	    {
+            "predicate": { "custom_model_data": 5 },
+            "model":"item/icons/assassin_disarm"
+		},
+	    {
+            "predicate": { "custom_model_data": 6 },
+            "model":"item/icons/assassin_poisonous_dagger"
+		},
+        {
+            "predicate": { "custom_model_data": 7 },
+            "model":"item/icons/assassin_slowing_dagger"
+		},
+        {
+            "predicate": { "custom_model_data": 8 },
+            "model":"item/icons/assassin_dash"
+		},
+        {
+            "predicate": { "custom_model_data": 9 },
+            "model":"item/icons/assassin_blind"
+		}, 
+	    {
+            "predicate": { "custom_model_data": 10 },
+            "model":"item/icons/assassin_thief"
+		},
+	    {
+            "predicate": { "custom_model_data": 11 },
+            "model":"item/icons/assassin_master_thief"
+		},
+	    {
+            "predicate": { "custom_model_data": 12 },
+            "model":"item/icons/assassin_speed"
+		},
+	    {
+            "predicate": { "custom_model_data": 13 },
+            "model":"item/icons/assassin_target"
+		},
+        {
+            "predicate": { "custom_model_data": 14 },
+            "model":"item/icons/assassin_sword_storm"
+		},
+        {
+            "predicate": { "custom_model_data": 15 },
+            "model":"item/icons/assassin_double_attacks"
+		},
+	    {
+            "predicate": { "custom_model_data": 16 },
+            "model":"item/icons/assassin_explosion_trap"
+		},
+	    {
+            "predicate": { "custom_model_data": 17 },
+            "model":"item/icons/assassin_ice_trap"
+		},
+        {
+            "predicate": { "custom_model_data": 18 },
+            "model":"item/icons/assassin_poison_trap"
+		},
+        {
+            "predicate": { "custom_model_data": 19 },
+            "model":"item/icons/assassin_smoke_bomb"
+        },
+        {
+            "predicate": { "custom_model_data": 20 },
+            "model":"item/icons/assassin_bola"
+		}
+	]
+ 
+}
