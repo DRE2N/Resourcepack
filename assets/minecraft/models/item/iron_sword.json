@@ -34,7 +34,7 @@
 		},
 	{
         "predicate": { "custom_model_data": 8 },
-        "model":"item/weapons/Großschwert"
+        "model":"item/weapons/Grossschwert"
 		},
 	{
         "predicate": { "custom_model_data": 9 },
