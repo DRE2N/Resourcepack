@@ -6,55 +6,55 @@
 	"overrides": [
         {
         "predicate": { "custom_model_data": 1 },
-        "model":"item/weapons/Dolch"
+        "model":"item/weapons/dolch"
 		},
 	{
         "predicate": { "custom_model_data": 2 },
-        "model":"item/weapons/Kurzschwert"
+        "model":"item/weapons/kurzschwert"
 		},
 	{
         "predicate": { "custom_model_data": 3 },
-        "model":"item/weapons/Streitkolben"
+        "model":"item/weapons/streitkolben"
 		},
 	{
         "predicate": { "custom_model_data": 4 },
-        "model":"item/weapons/Speer"
+        "model":"item/weapons/speer"
 		},
 	{
         "predicate": { "custom_model_data": 5 },
-        "model":"item/weapons/Axt"
+        "model":"item/weapons/axt"
 		},
 	{
         "predicate": { "custom_model_data": 6 },
-        "model":"item/weapons/Keule"
+        "model":"item/weapons/keule"
 		},
 	{
         "predicate": { "custom_model_data": 7 },
-        "model":"item/weapons/Hammer"
+        "model":"item/weapons/hammer"
 		},
 	{
         "predicate": { "custom_model_data": 8 },
-        "model":"item/weapons/Grossschwert"
+        "model":"item/weapons/grossschwert"
 		},
 	{
         "predicate": { "custom_model_data": 9 },
-        "model":"item/weapons/Stab"
+        "model":"item/weapons/stab"
 		},
 	{
         "predicate": { "custom_model_data": 10 },
-        "model":"item/weapons/Schild"
+        "model":"item/weapons/schild"
 		},
 	{
         "predicate": { "custom_model_data": 11 },
-        "model":"item/weapons/Glefe"
+        "model":"item/weapons/glefe"
 		},
 	{
         "predicate": { "custom_model_data": 12 },
-        "model":"item/weapons/Zepter"
+        "model":"item/weapons/zepter"
 		},
 	{
         "predicate": { "custom_model_data": 13 },
-        "model":"item/weapons/Buch"
+        "model":"item/weapons/buch"
 		},
 
 	]
