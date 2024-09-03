@@ -4,7 +4,7 @@
 		"0": "block/anvil",
 		"3": "block/blast_furnace_top",
 		"7": "block/cartography_table_side3",
-		"particle": "item/weapons/anvil"
+		"particle": "block/anvil"
 	},
 	"elements": [
 		{
