@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"4": "item/weapons/iron_block",
-		"5": "item/weapons/spruce_planks",
-		"6": "item/weapons/deepslate_bricks",
-		"particle": "item/weapons/iron_block"
+		"4": "block/iron_block",
+		"5": "block/spruce_planks",
+		"6": "block/deepslate_bricks",
+		"particle": "block/iron_block"
 	},
 	"elements": [
 		{
