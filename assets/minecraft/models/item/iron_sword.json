@@ -1,0 +1,52 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+		"layer0": "minecraft:item/iron_sword"
+	},
+	"overrides": [
+        {
+        "predicate": { "custom_model_data": 1 },
+        "model":"item/weapons/dolch"
+		},
+	{
+        "predicate": { "custom_model_data": 2 },
+        "model":"item/weapons/kurzschwert"
+		},
+	{
+        "predicate": { "custom_model_data": 3 },
+        "model":"item/weapons/streitkolben"
+		},
+	{
+        "predicate": { "custom_model_data": 4 },
+        "model":"item/weapons/stab"
+		},
+	{
+        "predicate": { "custom_model_data": 5 },
+        "model":"item/weapons/speer"
+		},
+	{
+        "predicate": { "custom_model_data": 6 },
+        "model":"item/weapons/schild"
+		},
+	{
+        "predicate": { "custom_model_data": 7 },
+        "model":"item/weapons/axt"
+		},
+	{
+        "predicate": { "custom_model_data": 8 },
+        "model":"item/weapons/keule"
+		},
+	{
+        "predicate": { "custom_model_data": 9 },
+        "model":"item/weapons/hammer"
+		},
+	{
+        "predicate": { "custom_model_data": 10 },
+        "model":"item/weapons/schwert"
+		},
+	{
+        "predicate": { "custom_model_data": 11 },
+        "model":"item/weapons/glefe"
+		}
+	]
+}
