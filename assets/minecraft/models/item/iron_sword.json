@@ -1,5 +1,6 @@
 {
-    "parent": "minecraft:item/handheld",
+    "parent": "minecraft:/models/item
+handheld",
     "textures": {
 		"layer0": "minecraft:item/iron_sword"
 	},
