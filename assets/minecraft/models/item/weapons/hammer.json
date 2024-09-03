@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/weapons/anvil",
-		"3": "item/weapons/blast_furnace_top",
-		"7": "item/weapons/cartography_table_side3",
+		"0": "item/anvil",
+		"3": "item/blast_furnace_top",
+		"7": "item/cartography_table_side3",
 		"particle": "item/weapons/anvil"
 	},
 	"elements": [
