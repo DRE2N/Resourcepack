@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/weapons/anvil_top",
-		"1": "item/weapons/cartography_table_side3",
-		"2": "item/weapons/iron_bars",
-		"3": "item/weapons/iron_block",
-		"particle": "item/weapons/anvil_top"
+		"0": "block/anvil_top",
+		"1": "block/cartography_table_side3",
+		"2": "block/iron_bars",
+		"3": "block/iron_block",
+		"particle": "block/anvil_top"
 	},
 	"elements": [
 		{
