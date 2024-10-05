@@ -1,7 +1,17 @@
 {
-  "test": {
+  "erethon.biome.ambient.swamp": {
     "sounds": [
-      "erethon:test"
+      "erethon:swamp_birds_mosquitoes"
+    ]
+  },
+  "erethon.biome.ambient.creek": {
+    "sounds": [
+      "erethon:creek_loop"
+    ]
+  },
+  "erethon.biome.ambient.ancient_forest": {
+    "sounds": [
+      "erethon:forest_birds_loop"
     ]
   }
 }
