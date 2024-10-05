@@ -13,5 +13,10 @@
     "sounds": [
       "erethon:forest_birds_loop"
     ]
+  },
+  "erethon.biome.ambient.azuria_river": {
+    "sounds": [
+      "erethon:swamp_birds_mosquitoes"
+    ]
   }
 }
