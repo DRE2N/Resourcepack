@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/flowerbase",
+		"1": "block/flowerbase_dandelion",
 		"particle": "block/dandelion",
 		"cross": "block/dandelion"
 	},
