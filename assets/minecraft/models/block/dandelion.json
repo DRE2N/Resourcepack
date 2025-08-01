@@ -2,7 +2,7 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "block/plants/flowerbase_dandelion"
+		"2": "flowerbase_dandelion"
 	},
 	"elements": [
 		{
