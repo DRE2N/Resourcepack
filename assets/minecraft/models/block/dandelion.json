@@ -2,9 +2,7 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "flowerbase_dandelion",
-		"particle": "block/dandelion",
-		"cross": "block/dandelion"
+		"2": "flowerbase_dandelion"
 	},
 	"elements": [
 		{
@@ -13,8 +11,8 @@
 			"shade": false,
 			"rotation": {"angle": 45, "axis": "y", "origin": [2.375, 0, 13.6198], "rescale": true},
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#cross"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#cross"}
+				"north": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#missing"}
 			}
 		},
 		{
@@ -23,8 +21,8 @@
 			"shade": false,
 			"rotation": {"angle": 45, "axis": "y", "origin": [2.5, 0, 2.5], "rescale": true},
 			"faces": {
-				"east": {"uv": [0, 0, 16, 16], "texture": "#cross"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#cross"}
+				"east": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#missing"}
 			}
 		},
 		{
