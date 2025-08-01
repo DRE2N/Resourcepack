@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "dandelion",
-		"2": "flowerbase_dandelion",
+		"1": "block/dandelion",
+		"2": "block/flowerbase_dandelion",
 		"particle": "dandelion"
 	},
 	"elements": [
