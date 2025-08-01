@@ -2,9 +2,9 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "dandelion",
+		"1": "DRE:dandelion",
 		"2": "flowerbase_dandelion",
-		"particle": "dandelion"
+		"particle": "DRE:dandelion"
 	},
 	"elements": [
 		{
@@ -23,8 +23,8 @@
 			"shade": false,
 			"rotation": {"angle": 45, "axis": "y", "origin": [2.5, 0, 2.5], "rescale": true},
 			"faces": {
-				"east": {"uv": [16, 0, 0, 16], "texture": "#1"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#1"}
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#1"}
 			}
 		},
 		{
