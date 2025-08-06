@@ -5,7 +5,7 @@
 	"textures": {
 		"0": "block/mushroom_stem",
 		"1": "block/red_mushroom_block",
-		"2": "erethon:textures/red_mushroom_slats",
+		"2": "erethon:red_mushroom_slats",
 		"particle": "block/mushroom_stem"
 	},
 	"elements": [
