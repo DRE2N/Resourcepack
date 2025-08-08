@@ -4,52 +4,59 @@
 	"texture_size": [8, 8],
 	"textures": {
 		"1": "block/brown_mushroom_block",
-		"2": "block/mushroom_stem",
 		"3": "block/mushroom_block_inside",
-		"particle": "block/mushroom_stem"
+		"4": "erethon:block/brown_mushroom_stem"
 	},
 	"elements": [
 		{
-			"name": "Kappe Unten",
-			"from": [5, 3, 5],
-			"to": [11, 4, 11],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7, 3, 7]},
+			"name": "Stiel",
+			"from": [5.5, 0, 5.5],
+			"to": [8.5, 3, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 0, 6]},
+			"faces": {
+				"north": {"uv": [0, 0, 8, 12], "texture": "#4"},
+				"east": {"uv": [0, 0, 8, 11.5], "texture": "#4"},
+				"south": {"uv": [0, 0, 8, 12], "texture": "#4"},
+				"west": {"uv": [0, 0, 8, 12], "texture": "#4"},
+				"up": {"uv": [0, 0, 8, 8], "texture": "#4"},
+				"down": {"uv": [0, 0, 8, 8], "texture": "#4"}
+			}
+		},
+		{
+			"name": "Hut Unten",
+			"from": [4, 3, 4],
+			"to": [10, 4, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 3, 6]},
 			"faces": {
 				"north": {"uv": [0, 0, 12, 2], "texture": "#1"},
 				"east": {"uv": [0, 0, 12, 2], "texture": "#1"},
 				"south": {"uv": [0, 0, 12, 2], "texture": "#1"},
 				"west": {"uv": [0, 0, 12, 2], "texture": "#1"},
 				"up": {"uv": [0, 0, 12, 12], "texture": "#1"},
-				"down": {"uv": [0, 0, 12, 12], "texture": "#3"}
+				"down": {"uv": [0, 0, 16, 16], "texture": "#3"}
 			}
 		},
 		{
-			"name": "Kappe Oben",
-			"from": [6, 4, 6],
-			"to": [10, 5, 10],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7, 4, 7]},
+			"name": "Hut Oben",
+			"from": [5, 4, 5],
+			"to": [9, 5, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 4, 6]},
 			"faces": {
 				"north": {"uv": [8, 0, 16, 2], "texture": "#1"},
 				"east": {"uv": [8, 2, 16, 4], "texture": "#1"},
 				"south": {"uv": [8, 4, 16, 6], "texture": "#1"},
 				"west": {"uv": [8, 6, 16, 8], "texture": "#1"},
-				"up": {"uv": [5.5, 5.5, 0, 0], "texture": "#1"},
+				"up": {"uv": [11.5, 11.5, 0, 0], "texture": "#1"},
 				"down": {"uv": [8, 8, 0, 16], "texture": "#1"}
 			}
-		},
+		}
+	],
+	"groups": [
 		{
-			"name": "Stiel",
-			"from": [7, 0, 7],
-			"to": [9, 3, 9],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 7]},
-			"faces": {
-				"north": {"uv": [0, 0, 4, 6], "texture": "#2"},
-				"east": {"uv": [0, 0, 4, 6], "texture": "#2"},
-				"south": {"uv": [0, 0, 4, 6], "texture": "#2"},
-				"west": {"uv": [0, 0, 4, 6], "texture": "#2"},
-				"up": {"uv": [0, 0, 4, 4], "texture": "#2"},
-				"down": {"uv": [0, 0, 4, 4], "texture": "#2"}
-			}
+			"name": "Steipilz_gross",
+			"origin": [7, 0, 7],
+			"color": 0,
+			"children": [0, 1, 2]
 		}
 	]
 }
