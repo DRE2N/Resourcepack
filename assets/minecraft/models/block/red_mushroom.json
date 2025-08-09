@@ -5,29 +5,15 @@
 	"textures": {
 		"0": "block/mushroom_stem",
 		"1": "block/red_mushroom_block",
-		"2": "erethon:block/red_mushroom_slats",
+		"2": "erethon:red_mushroom_slats",
 		"particle": "block/mushroom_stem"
 	},
 	"elements": [
 		{
-			"name": "Stiel_Klein",
-			"from": [5, 0, 10],
-			"to": [6, 2, 11],
-			"rotation": {"angle": 0, "axis": "y", "origin": [4, 0, 10]},
-			"faces": {
-				"north": {"uv": [0, 0, 5, 10], "texture": "#0"},
-				"east": {"uv": [0, 0, 5, 10], "texture": "#0"},
-				"south": {"uv": [0, 0, 5, 10], "texture": "#0"},
-				"west": {"uv": [0, 0, 5, 10], "texture": "#0"},
-				"up": {"uv": [0, 0, 0.5, 0.5], "texture": "#missing"},
-				"down": {"uv": [0, 0, 5, 5], "texture": "#0"}
-			}
-		},
-		{
 			"name": "Stiel_Gross",
-			"from": [9, 0, 6],
-			"to": [10, 5, 7],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 6]},
+			"from": [9, 0, 8],
+			"to": [10, 5, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 3, 15], "texture": "#0"},
 				"east": {"uv": [0, 0, 3, 15], "texture": "#0"},
@@ -38,24 +24,38 @@
 			}
 		},
 		{
+			"name": "Manschette",
+			"from": [8, 4, 7],
+			"to": [11, 4, 10],
+			"rotation": {"angle": 0, "axis": "x", "origin": [9, 4, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 1.5, 0], "texture": "#missing"},
+				"east": {"uv": [0, 0, 1.5, 0], "texture": "#missing"},
+				"south": {"uv": [0, 0, 1.5, 0], "texture": "#missing"},
+				"west": {"uv": [0, 0, 1.5, 0], "texture": "#missing"},
+				"up": {"uv": [0, 0, 5, 5], "texture": "#0"},
+				"down": {"uv": [4, 4.5, 12, 12.5], "texture": "#2"}
+			}
+		},
+		{
 			"name": "Hut_Gross",
-			"from": [7, 5, 4],
-			"to": [12, 6, 9],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 5, 5]},
+			"from": [7, 5, 6],
+			"to": [12, 6, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 5, 7]},
 			"faces": {
 				"north": {"uv": [0, 0, 15, 2.5], "texture": "#1"},
 				"east": {"uv": [0, 0, 15, 2.5], "texture": "#1"},
 				"south": {"uv": [0, 0, 15, 2.5], "texture": "#1"},
 				"west": {"uv": [0, 0, 15, 2.5], "texture": "#1"},
 				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
-				"down": {"uv": [0, 0, 15, 16], "texture": "#2"}
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
 			}
 		},
 		{
 			"name": "Hut_Klein",
-			"from": [4, 2, 9],
-			"to": [7, 4, 12],
-			"rotation": {"angle": 0, "axis": "y", "origin": [4, 2, 10]},
+			"from": [4, 2, 11],
+			"to": [7, 3.5, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 2, 12]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 10.5], "texture": "#1"},
 				"east": {"uv": [0, 0, 16, 10.5], "texture": "#1"},
@@ -66,18 +66,66 @@
 			}
 		},
 		{
-			"name": "Manschette",
-			"from": [8, 3, 5],
-			"to": [11, 3, 8],
-			"rotation": {"angle": 0, "axis": "y", "origin": [9, 3, 5]},
+			"name": "Stiel_Klein",
+			"from": [5, 0, 12],
+			"to": [6, 2, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 0, 12]},
 			"faces": {
-				"north": {"uv": [0, 0, 1.5, 0], "texture": "#missing"},
-				"east": {"uv": [0, 0, 1.5, 0], "texture": "#missing"},
-				"south": {"uv": [0, 0, 1.5, 0], "texture": "#missing"},
-				"west": {"uv": [0, 0, 1.5, 0], "texture": "#missing"},
-				"up": {"uv": [0, 0, 5, 5], "texture": "#0"},
-				"down": {"uv": [4, 4.5, 12, 12.5], "texture": "#2"}
+				"north": {"uv": [0, 0, 5, 10], "texture": "#0"},
+				"east": {"uv": [0, 0, 5, 10], "texture": "#0"},
+				"south": {"uv": [0, 0, 5, 10], "texture": "#0"},
+				"west": {"uv": [0, 0, 5, 10], "texture": "#0"},
+				"up": {"uv": [0, 0, 0.5, 0.5], "texture": "#missing"},
+				"down": {"uv": [0, 0, 5, 5], "texture": "#0"}
 			}
+		},
+		{
+			"name": "Hut_Klein",
+			"from": [4.5, 1, 0.5],
+			"to": [6.5, 2.5, 2.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 1, 1]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 10.5], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 10.5], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 10.5], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 10.5], "texture": "#1"},
+				"up": {"uv": [0, 0, 11, 11], "texture": "#1"},
+				"down": {"uv": [2, 2, 14, 13.5], "texture": "#2"}
+			}
+		},
+		{
+			"name": "Stiel_Klein",
+			"from": [5, 0, 1],
+			"to": [6, 1, 2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 0, 1]},
+			"faces": {
+				"north": {"uv": [0, 0, 5, 10], "texture": "#0"},
+				"east": {"uv": [0, 0, 5, 10], "texture": "#0"},
+				"south": {"uv": [0, 0, 5, 10], "texture": "#0"},
+				"west": {"uv": [0, 0, 5, 10], "texture": "#0"},
+				"up": {"uv": [0, 0, 0.5, 0.5], "texture": "#missing"},
+				"down": {"uv": [0, 0, 5, 5], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Fliegenpilz_gross",
+			"origin": [8, 0, 6],
+			"color": 0,
+			"children": [0, 1, 2]
+		},
+		{
+			"name": "Fliegenpilz_klein",
+			"origin": [4, 2, 10],
+			"color": 0,
+			"children": [3, 4]
+		},
+		{
+			"name": "Fliegenpilz_klein2",
+			"origin": [4, 2, 10],
+			"color": 0,
+			"children": [5, 6]
 		}
 	]
 }
