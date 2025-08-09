@@ -1,0 +1,111 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "block/mushroom_stem",
+		"1": "block/red_mushroom_block",
+		"2": "erethon:block/red_mushroom_slats",
+		"particle": "block/mushroom_stem"
+	},
+	"elements": [
+		{
+			"name": "Stiel_Gross",
+			"from": [9, 0, 8],
+			"to": [10, 5, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 3, 15], "texture": "#0"},
+				"east": {"uv": [0, 0, 3, 15], "texture": "#0"},
+				"south": {"uv": [0, 0, 3, 15], "texture": "#0"},
+				"west": {"uv": [0, 0, 3, 15], "texture": "#0"},
+				"up": {"uv": [0, 0, 4.25, 4.25], "texture": "#0"},
+				"down": {"uv": [0, 0, 5, 5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Manschette",
+			"from": [8, 3.5, 7],
+			"to": [11, 3.5, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 4, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 1.5, 0], "texture": "#missing"},
+				"east": {"uv": [0, 0, 1.5, 0], "texture": "#missing"},
+				"south": {"uv": [0, 0, 1.5, 0], "texture": "#missing"},
+				"west": {"uv": [0, 0, 1.5, 0], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		},
+		{
+			"name": "Hut_Gross",
+			"from": [7, 5, 6],
+			"to": [12, 6, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 5, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 15, 2.5], "texture": "#1"},
+				"east": {"uv": [0, 0, 15, 2.5], "texture": "#1"},
+				"south": {"uv": [0, 0, 15, 2.5], "texture": "#1"},
+				"west": {"uv": [0, 0, 15, 2.5], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		},
+		{
+			"name": "Stiel_Gross",
+			"from": [5, 0, 6],
+			"to": [6, 3.5, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 0, 6]},
+			"faces": {
+				"north": {"uv": [0, 0, 3, 15], "texture": "#0"},
+				"east": {"uv": [0, 0, 3, 15], "texture": "#0"},
+				"south": {"uv": [0, 0, 3, 15], "texture": "#0"},
+				"west": {"uv": [0, 0, 3, 15], "texture": "#0"},
+				"up": {"uv": [0, 0, 4.25, 4.25], "texture": "#0"},
+				"down": {"uv": [0, 0, 5, 5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Manschette",
+			"from": [4, 2.5, 5],
+			"to": [7, 2.5, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 3, 5]},
+			"faces": {
+				"north": {"uv": [0, 0, 1.5, 0], "texture": "#missing"},
+				"east": {"uv": [0, 0, 1.5, 0], "texture": "#missing"},
+				"south": {"uv": [0, 0, 1.5, 0], "texture": "#missing"},
+				"west": {"uv": [0, 0, 1.5, 0], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		},
+		{
+			"name": "Hut_Gross",
+			"from": [3.25, 3.5, 4.25],
+			"to": [7.75, 4.5, 8.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 4, 5]},
+			"faces": {
+				"north": {"uv": [0, 0, 15, 2.5], "texture": "#1"},
+				"east": {"uv": [0, 0, 15, 2.5], "texture": "#1"},
+				"south": {"uv": [0, 0, 15, 2.5], "texture": "#1"},
+				"west": {"uv": [0, 0, 15, 2.5], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Fliegenpilz_gross",
+			"origin": [8, 0, 6],
+			"color": 0,
+			"children": [0, 1, 2]
+		},
+		{
+			"name": "Fliegenpilz_gross2",
+			"origin": [8, 0, 6],
+			"color": 0,
+			"children": [3, 4, 5]
+		}
+	]
+}
