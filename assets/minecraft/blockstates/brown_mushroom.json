@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": {
+      "apply": [
+        
+        {"model": "minecraft:block/brown_mushroom", "weight": 1},
+        {"model": "erethon:block/brown_mushroom2", "weight": 1},
+        {"model": "erethon:block/brown_mushroom2", "weight": 1}
+      ]
+    }
+  }
+}
