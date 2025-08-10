@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      { "model": "erethon:block/white_water_lily1",  "y": 0,   "uvlock": true, "weight": 5 },
+      { "model": "erethon:block/white_water_lily1",  "y": 90,  "uvlock": true, "weight": 5 },
+      { "model": "erethon:block/white_water_lily1",  "y": 180, "uvlock": true, "weight": 5 },
+      { "model": "erethon:block/white_water_lily1",  "y": 270, "uvlock": true, "weight": 5 },
+
+      { "model": "erethon:block/white_water_lily_flower1",   "y": 0,   "uvlock": true, "weight": 2 },
+      { "model": "erethon:block/white_water_lily_flower1",   "y": 90,  "uvlock": true, "weight": 2 },
+      { "model": "erethon:block/white_water_lily_flower1",   "y": 180, "uvlock": true, "weight": 2 },
+      { "model": "erethon:block/white_water_lily_flower1",   "y": 270, "uvlock": true, "weight": 2 }
+    ]
+  }
+}
