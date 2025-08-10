@@ -1,0 +1,105 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "erethon:block/white_water_lily_top1",
+		"1": "erethon:block/white_water_lily_downside1",
+		"2": "erethon:block/white_water_lily_flower1",
+		"3": "erethon:block/white_water_lily_flower_side1",
+		"particle": "erethon:block/white_water_lily_top1"
+	},
+	"elements": [
+		{
+			"name": "Blätter",
+			"from": [0, 0, 0],
+			"to": [16, 0, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 0], "texture": "#missing"},
+				"east": {"uv": [0, 0, 8, 0], "texture": "#missing"},
+				"south": {"uv": [0, 0, 8, 0], "texture": "#missing"},
+				"west": {"uv": [0, 0, 8, 0], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Blume1",
+			"from": [8, 0, 0],
+			"to": [8, 16, 16],
+			"rotation": {"angle": 45, "axis": "z", "origin": [8, 0, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 8], "texture": "#missing"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"south": {"uv": [0, 0, 0, 8], "texture": "#missing"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"up": {"uv": [0, 0, 0, 8], "texture": "#missing"},
+				"down": {"uv": [0, 0, 0, 8], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "Blume2",
+			"from": [0, 0, 10],
+			"to": [16, 16, 10],
+			"rotation": {"angle": 45, "axis": "x", "origin": [7, 0, 10]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 0, 8], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 0, 8], "texture": "#missing"},
+				"up": {"uv": [0, 0, 8, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 8, 0], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "Blume2",
+			"from": [0, 0, 8],
+			"to": [16, 16, 8],
+			"rotation": {"angle": -45, "axis": "x", "origin": [7, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 0, 8], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 0, 8], "texture": "#missing"},
+				"up": {"uv": [0, 0, 8, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 8, 0], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [10, 0, 0],
+			"to": [10, 16, 16],
+			"rotation": {"angle": -45, "axis": "z", "origin": [10, 0, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 8], "texture": "#missing"},
+				"east": {"uv": [0, 0, 16, 15.5], "texture": "#3"},
+				"south": {"uv": [0, 0, 0, 8], "texture": "#missing"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"up": {"uv": [0, 0, 0, 8], "texture": "#missing"},
+				"down": {"uv": [0, 0, 0, 8], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [1, 0.1, 1.5],
+			"to": [17, 0.1, 17.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 0, 1]},
+			"faces": {
+				"north": {"uv": [0, 0, 8, 0], "texture": "#missing"},
+				"east": {"uv": [0, 0, 8, 0], "texture": "#missing"},
+				"south": {"uv": [0, 0, 8, 0], "texture": "#missing"},
+				"west": {"uv": [0, 0, 8, 0], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"down": {"uv": [0, 0, 8, 8], "texture": "#missing"}
+			}
+		}
+	],
+	"groups": [
+		0,
+		{
+			"name": "Blume",
+			"origin": [6, 0, 6],
+			"color": 0,
+			"children": [1, 2, 3, 4]
+		},
+		5
+	]
+}
