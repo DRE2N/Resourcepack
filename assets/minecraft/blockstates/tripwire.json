@@ -3,21 +3,6 @@
     "attached=false,disarmed=false,east=false,north=false,south=false,west=false,powered=false": {
       "model": "minecraft:block/plants/duckweed"
     },
-    "attached=false,disarmed=false,east=false,north=false,south=false,west=true,powered=false": {
-      "model": "minecraft:block/plants/daisy",
-	  "y": 90
-    },
-    "attached=false,disarmed=false,east=false,north=false,south=true,west=false,powered=false": {
-      "model": "minecraft:block/plants/lilypads",
-      "y": 180
-    },
-    "attached=false,disarmed=false,east=false,north=true,south=false,west=false,powered=false": {
-      "model": "minecraft:block/plants/gold_leaves",
-	  "y": 360
-    },
-    "attached=false,disarmed=false,east=true,north=false,south=false,west=false,powered=false": {
-      "model": "minecraft:block/plants/red_leaves"
-    },
 	"attached=false,disarmed=false,east=false,north=false,south=false,west=false,powered=true": {
       "model": "minecraft:block/plants/purple_moor_grass_1",
       "y": 270
