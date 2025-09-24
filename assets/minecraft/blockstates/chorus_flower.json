@@ -7,7 +7,7 @@
       "model": "block/leaves/red_leaves"
     },
     "age=2": {
-      "model": "erethon:block/avhile_leaves"
+      "model": "erethon:block/leaves/avhile_leaves"
     },
     "age=3": {
       "model": "block/leaves/yellow_flowers"
@@ -20,4 +20,5 @@
     }
   }
 }
+
 
