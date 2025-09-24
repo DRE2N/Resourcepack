@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/leaves/white_flowers_leaves",
-		"particle": "block/leaves/white_flowers_leaves"
+		"0": "block/leaves/avhile_leaves",
+		"particle": "block/leaves/avhile_leaves"
 	},
 	"elements": [
 		{
