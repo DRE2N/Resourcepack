@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_date",
+    "fallback": {
+      "type": "model",
+      "model": "item/stone_sword"
+    },
+    "cases": [
+      {
+        "when": "basic_shortsword",
+        "model": {
+          "type": "model",
+          "model": "item/basic_shortsword"
+        }
+      }
+    ]
+  }
+}
