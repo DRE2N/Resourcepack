@@ -4,7 +4,7 @@
     "property": "custom_model_date",
     "fallback": {
       "type": "model",
-      "model": "item/stone_sword"
+      "model": "item/basic_shortsword"
     },
     "cases": [
       {
@@ -16,4 +16,5 @@
       }
     ]
   }
+
 }
