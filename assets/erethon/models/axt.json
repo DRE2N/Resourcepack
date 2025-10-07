@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:item/handheld",
-  "textures": {
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
 		"7": "erethon:item/axe"
 	},
 	"elements": [
