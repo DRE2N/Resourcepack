@@ -3,85 +3,85 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/icons/alliance_red.png",
-      "ascent": 8,
-      "height": 16,
+      "ascent": 7,
+      "height": 9,
       "chars": ["\uE100"]
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/icons/alliance_green.png",
-      "ascent": 8,
-      "height": 16,
+      "ascent": 7,
+      "height": 9,
       "chars": ["\uE101"]
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/icons/alliance_blue.png",
-      "ascent": 8,
-      "height": 16,
+      "ascent": 7,
+      "height": 9,
       "chars": ["\uE102"]
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/icons/admin.png",
-      "ascent": 8,
-      "height": 16,
+      "ascent": 7,
+      "height": 9,
       "chars": ["\uE200"]
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/icons/team.png",
-      "ascent": 8,
-      "height": 16,
+      "ascent": 7,
+      "height": 9,
       "chars": ["\uE201"]
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/icons/1_golden_stripes.png",
-      "ascent": 8,
-      "height": 16,
+      "ascent": 7,
+      "height": 9,
       "chars": ["\uE250"]
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/icons/2_golden_stripes.png",
-      "ascent": 8,
-      "height": 16,
+      "ascent": 7,
+      "height": 9,
       "chars": ["\uE251"]
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/icons/3_golden_stripes.png",
-      "ascent": 8,
-      "height": 16,
+      "ascent": 7,
+      "height": 9,
       "chars": ["\uE252"]
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/icons/2_golden_stripes_corner.png",
-      "ascent": 8,
-      "height": 16,
+      "ascent": 7,
+      "height": 9,
       "chars": ["\uE254"]
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/icons/crown.png",
-      "ascent": 8,
-      "height": 16,
+      "ascent": 7,
+      "height": 9,
       "chars": ["\uE256"]
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/icons/medal.png",
-      "ascent": 8,
-      "height": 16,
+      "ascent": 7,
+      "height": 9,
       "chars": ["\uE257"]
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/icons/bounty.png",
-      "ascent": 8,
-      "height": 16,
+      "ascent": 7,
+      "height": 9,
       "chars": ["\uE260"]
     }
   ]
