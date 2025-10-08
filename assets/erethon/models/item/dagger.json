@@ -2,7 +2,7 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"6": "block/dagger"
+		"6": "erethon:item/dagger"
 	},
 	"elements": [
 		{
