@@ -5,7 +5,7 @@
 		"3": "erethon/textures/block/anvil",
 		"4": "erethon/textures/block/cartography_table_side3",
 		"5": "erethon/textures/block/iron_weapons",
-		"particle": "anvil"
+		"particle": "erethon/textures/block/anvil"
 	},
 	"elements": [
 		{
