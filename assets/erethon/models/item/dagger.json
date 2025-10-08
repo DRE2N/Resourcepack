@@ -2,9 +2,9 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "anvil",
-		"4": "cartography_table_side3",
-		"5": "iron_weapons",
+		"3": "erethon/textures/block/anvil",
+		"4": "erethon/textures/block/cartography_table_side3",
+		"5": "erethon/textures/block/iron_weapons",
 		"particle": "anvil"
 	},
 	"elements": [
