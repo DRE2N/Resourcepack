@@ -1,0 +1,50 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "erethon:block/mushroom_tree",
+		"3": "block/mushroom_block_inside",
+		"particle": "erethon:block/mushroom_tree"
+	},
+	"elements": [
+		{
+			"from": [-2.75, 2, 10.75],
+			"to": [5.25, 5, 19.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15.75, 7.5, 9.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 8, 3], "texture": "#1"},
+				"east": {"uv": [0, 0, 9, 3], "texture": "#1"},
+				"south": {"uv": [0, 0, 8, 3], "texture": "#1"},
+				"west": {"uv": [0, 0, 9, 3], "texture": "#1"},
+				"up": {"uv": [0, 0, 9, 8], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#3"}
+			}
+		},
+		{
+			"from": [9.25, 6, 12.75],
+			"to": [15.25, 9, 19.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15.75, 7.5, 9.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 6, 3], "texture": "#1"},
+				"east": {"uv": [0, 0, 7, 3], "texture": "#1"},
+				"south": {"uv": [0, 0, 6, 3], "texture": "#1"},
+				"west": {"uv": [0, 0, 7, 3], "texture": "#1"},
+				"up": {"uv": [0, 0, 7, 6], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [3, 3, 13.5, 12], "rotation": 270, "texture": "#3"}
+			}
+		},
+		{
+			"from": [2.25, 10, 11.75],
+			"to": [10.25, 13, 17.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15.75, 7.5, 9.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 8, 3], "texture": "#1"},
+				"east": {"uv": [0, 0, 6, 3], "texture": "#1"},
+				"south": {"uv": [0, 0, 8, 3], "texture": "#1"},
+				"west": {"uv": [0, 0, 6, 3], "texture": "#1"},
+				"up": {"uv": [0, 0, 6, 8], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [3, 3, 13, 15.5], "rotation": 270, "texture": "#3"}
+			}
+		}
+	]
+}

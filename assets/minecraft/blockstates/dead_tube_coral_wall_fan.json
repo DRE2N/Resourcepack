@@ -1,18 +1,18 @@
 {
   "variants": {
     "facing=east": {
-      "model": "minecraft:block/plants/mushroom_tree",
+      "model": "erethon:block/mushroom_tree",
       "y": 90
     },
     "facing=north": {
-      "model": "minecraft:block/plants/mushroom_tree"
+      "model": "erethon:block/mushroom_tree"
     },
     "facing=south": {
-      "model": "minecraft:block/plants/mushroom_tree",
+      "model": "erethon:block/mushroom_tree",
       "y": 180
     },
     "facing=west": {
-      "model": "minecraft:block/plants/mushroom_tree",
+      "model": "erethon:block/mushroom_tree",
       "y": 270
     }
   }

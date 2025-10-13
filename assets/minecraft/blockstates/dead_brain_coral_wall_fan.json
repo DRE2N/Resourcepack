@@ -1,18 +1,18 @@
 {
   "variants": {
     "facing=east": {
-      "model": "minecraft:block/plants/moss_2",
+      "model": "erethon:block/moss_2",
       "y": 90
     },
     "facing=north": {
-      "model": "minecraft:block/plants/moss_2"
+      "model": "erethon:block/moss_2"
     },
     "facing=south": {
-      "model": "minecraft:block/plants/moss_2",
+      "model": "erethon:block/moss_2",
       "y": 180
     },
     "facing=west": {
-      "model": "minecraft:block/plants/moss_2",
+      "model": "erethon:block/moss_2",
       "y": 270
     }
   }

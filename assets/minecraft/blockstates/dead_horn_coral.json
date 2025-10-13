@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "minecraft:block/plants/bush1"
+      "model": "erethon:block/reed"
     }
   }
 }

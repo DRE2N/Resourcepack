@@ -1,0 +1,10 @@
+{
+  "variants": {
+   "": [
+      { "model": "erethon:block/roof_tiles_1", "weight": 1 },
+      { "model": "erethon:block/roof_tiles_2", "weight": 1 },
+      { "model": "erethon:block/roof_tiles_3", "weight": 1 },
+      { "model": "erethon:block/roof_tiles_4", "weight": 1 }
+   ]
+    }
+  }

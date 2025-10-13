@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "erethon:block/roof_tiles_slab"
+    },
+    "type=double": {
+      "model": "erethon:block/roof_tiles_1"
+    },
+    "type=top": {
+      "model": "erethon:block/roof_tiles_slab_top"
+    }
+  }
+}

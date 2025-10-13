@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "erethon:block/roof_tiles_1",
+    "side": "erethon:block/roof_tiles_1",
+    "top": "erethon:block/roof_tiles_1"
+  }
+}

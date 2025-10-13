@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "minecraft:block/plants/swamp_bush"
+      "model": "erethon:block/swamp_bush"
     }
   }
 }
