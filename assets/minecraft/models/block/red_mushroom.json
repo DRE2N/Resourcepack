@@ -5,14 +5,14 @@
 	"textures": {
 		"0": "block/mushroom_stem",
 		"1": "block/red_mushroom_block",
-		"2": "erethon:red_mushroom_slats",
-		"particle": "block/mushroom_stem"
+		"2": "erethon:block/red_mushroom_slats",
+		"particle": "block/red_mushroom_block"
 	},
 	"elements": [
 		{
 			"name": "Stiel_Gross",
 			"from": [9, 0, 8],
-			"to": [10, 5, 9],
+			"to": [10, 5.5, 9],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 3, 15], "texture": "#0"},
@@ -27,7 +27,7 @@
 			"name": "Manschette",
 			"from": [8, 4, 7],
 			"to": [11, 4, 10],
-			"rotation": {"angle": 0, "axis": "x", "origin": [9, 4, 7]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 4, 7]},
 			"faces": {
 				"north": {"uv": [0, 0, 1.5, 0], "texture": "#missing"},
 				"east": {"uv": [0, 0, 1.5, 0], "texture": "#missing"},
@@ -39,8 +39,8 @@
 		},
 		{
 			"name": "Hut_Gross",
-			"from": [7, 5, 6],
-			"to": [12, 6, 11],
+			"from": [7, 5.5, 6],
+			"to": [12, 6.25, 11],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 5, 7]},
 			"faces": {
 				"north": {"uv": [0, 0, 15, 2.5], "texture": "#1"},
@@ -61,7 +61,7 @@
 				"east": {"uv": [0, 0, 16, 10.5], "texture": "#1"},
 				"south": {"uv": [0, 0, 16, 10.5], "texture": "#1"},
 				"west": {"uv": [0, 0, 16, 10.5], "texture": "#1"},
-				"up": {"uv": [0, 0, 11, 11], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
 				"down": {"uv": [2, 2, 14, 13.5], "texture": "#2"}
 			}
 		},
@@ -89,7 +89,7 @@
 				"east": {"uv": [0, 0, 16, 10.5], "texture": "#1"},
 				"south": {"uv": [0, 0, 16, 10.5], "texture": "#1"},
 				"west": {"uv": [0, 0, 16, 10.5], "texture": "#1"},
-				"up": {"uv": [0, 0, 11, 11], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
 				"down": {"uv": [2, 2, 14, 13.5], "texture": "#2"}
 			}
 		},

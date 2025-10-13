@@ -3,8 +3,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "block/dandelion",
-		"2": "block/flowerbase_dandelion",
-		"particle": "dandelion"
+		"2": "erethon:block/flowerbase_dandelion"
 	},
 	"elements": [
 		{
