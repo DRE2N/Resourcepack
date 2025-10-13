@@ -14,7 +14,7 @@
       "y": 270
     },
     "facing=east,half=bottom,shape=outer_right": {
-      "model": "merethon:block/roof_tiles_stairs_outer"
+      "model": "erethon:block/roof_tiles_stairs_outer"
     },
     "facing=east,half=bottom,shape=straight": {
       "model": "erethon:block/roof_tiles_stairs"
