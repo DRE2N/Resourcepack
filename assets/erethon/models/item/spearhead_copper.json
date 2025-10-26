@@ -3,7 +3,6 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "erethon:item/spearhead_copper",
-		"particle": "erethon:item/spearhead_copper"
 	},
 	"elements": [
 		{
