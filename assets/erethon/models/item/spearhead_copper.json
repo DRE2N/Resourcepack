@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "spearhead_copper",
-		"particle": "spearhead_copper"
+		"0": "erethon:item/spearhead_copper",
+		"particle": "erethon:item/spearhead_copper"
 	},
 	"elements": [
 		{
