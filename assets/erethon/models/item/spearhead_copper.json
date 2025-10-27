@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/generated",
+  "parent": "erethon:item/generated",
   "textures": {
     "layer0": "erethon:item/weapons/spearhead_copper"
   }
