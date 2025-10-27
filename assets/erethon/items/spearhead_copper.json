@@ -1,6 +1,9 @@
 {
-  "model": {
-    "type": "minecraft:model",
-    "model": "erethon:item/spearhead_copper"
-  }
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"1": "erethon:item/weapons/spearhead_copper",
+		"particle": "erethon:item/weapons/spearhead_copper"
+	}
 }
