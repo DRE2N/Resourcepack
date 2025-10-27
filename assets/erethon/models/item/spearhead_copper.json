@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"1": "erethon:item/spearhead_copper",
-		"particle": "erethon:item/spearhead_copper"
+		"1": "erethon:item/weapons/spearhead_copper",
+		"particle": "erethon:item/weapons/spearhead_copper"
 	}
 }
