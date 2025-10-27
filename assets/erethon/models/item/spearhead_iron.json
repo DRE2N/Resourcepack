@@ -1,7 +1,0 @@
-
-{
-  "parent": "erethon:item/generated",
-  "textures": {
-    "layer0": "erethon:item/weapons/spearhead_iron"
-  }
-}
