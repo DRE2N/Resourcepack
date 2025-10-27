@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/amethyst_shard"
+    "layer0": "erethon:item/weapons/spearhead_copper"
   }
 }
