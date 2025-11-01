@@ -2,7 +2,7 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"5": "block/iron_spear"
+		"5": "erethon:item/weapons/iron_spear"
 	},
 	"elements": [
 		{
