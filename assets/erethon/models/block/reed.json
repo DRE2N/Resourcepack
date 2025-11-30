@@ -2,7 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "erethon:block/reed"
+		"2": "erethon:block/reed",
+		"particle": "erethon:block/reed"
 	},
 	"elements": [
 		{
