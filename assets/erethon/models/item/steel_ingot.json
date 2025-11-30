@@ -1,0 +1,6 @@
+{
+  "parent": "erethon:item/generated",
+  "textures": {
+    "layer0": "erethon:item/ingots/steel_ingot"
+  }
+}
