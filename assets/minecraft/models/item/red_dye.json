@@ -6,7 +6,7 @@
   "overrides": [
     {
       "predicate": { "custom_model_data": 0 },
-      "model": "erethon:item/spellbook_icon_precisestab"
+      "model": "erethon:item/icons/spells/spellbook_icon_precisestab"
     }
   ]
 }

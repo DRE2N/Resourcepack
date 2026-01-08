@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "erethon:item/spell_slot_1"
+    "layer0": "erethon:item/icons/spells/spell_slot_1"
   }
 }
