@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/red_dye"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 0 },
+      "model": "erethon:item/spellbook_icon_precisestab"
+    }
+  ]
+}
