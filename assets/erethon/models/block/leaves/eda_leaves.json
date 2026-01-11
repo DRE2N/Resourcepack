@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "erethon:block/leaves/eda_leaves"
+  }
+}

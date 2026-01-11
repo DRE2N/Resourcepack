@@ -1,22 +1,22 @@
 {
   "variants": {
     "age=0": {
-      "model": "block/leaves/golden_leaves"
+      "model": "erethon:block/leaves/ember_poplar_leaves"
     },
     "age=1": {
-      "model": "block/leaves/red_leaves"
+      "model": "erethon:block/leaves/blood_oak_leaves"
     },
     "age=2": {
-      "model": "block/leaves/avhile_leaves"
+      "model": "erethon:block/leaves/ede_leaves"
     },
     "age=3": {
-      "model": "block/leaves/yellow_flowers"
+      "model": "erethon:block/leaves/genista_leaves"
     },
     "age=4": {
-      "model": "block/leaves/pink_flowers"
+      "model": "erethon:block/leaves/pink_flowers"
     },
     "age=5": {
-      "model": "block/leaves/green_leaves"
+      "model": "erethon:block/leaves/green_leaves"
     }
   }
 }
