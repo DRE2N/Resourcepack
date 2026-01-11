@@ -7,16 +7,16 @@
       "model": "erethon:block/leaves/blood_oak_leaves"
     },
     "age=2": {
-      "model": "erethon:block/leaves/ede_leaves"
+      "model": "erethon:block/leaves/eda_leaves"
     },
     "age=3": {
       "model": "erethon:block/leaves/genista_leaves"
     },
     "age=4": {
-      "model": "erethon:block/leaves/pink_flowers"
+      "model": "erethon:block/leaves/pink_flower_leaves"
     },
     "age=5": {
-      "model": "erethon:block/leaves/green_leaves"
+      "model": "erethon:block/leaves/leer"
     }
   }
 }
