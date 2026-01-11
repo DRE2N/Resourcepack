@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "erethon:block/leaves/pink_flower_leaves"
+  }
+}
