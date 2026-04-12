@@ -6,15 +6,12 @@
       { "model": "minecraft:block/red_mushroom",  "y": 180, "uvlock": true, "weight": 1 },
       { "model": "minecraft:block/red_mushroom",  "y": 270, "uvlock": true, "weight": 1 },
 
-      { "model": "erethon:block/red_mushroom2",   "y": 0,   "uvlock": true, "weight": 1 },
-      { "model": "erethon:block/red_mushroom2",   "y": 90,  "uvlock": true, "weight": 1 },
-      { "model": "erethon:block/red_mushroom2",   "y": 180, "uvlock": true, "weight": 1 },
-      { "model": "erethon:block/red_mushroom2",   "y": 270, "uvlock": true, "weight": 1 },
+      { "model": "minecraft:block/red_mushroom2",  "y": 0,   "uvlock": true, "weight": 20 },
 
-      { "model": "erethon:block/red_mushroom3",   "y": 0,   "uvlock": true, "weight": 1 },
-      { "model": "erethon:block/red_mushroom3",   "y": 90,  "uvlock": true, "weight": 1 },
-      { "model": "erethon:block/red_mushroom3",   "y": 180, "uvlock": true, "weight": 1 },
-      { "model": "erethon:block/red_mushroom3",   "y": 270, "uvlock": true, "weight": 1 }
+      { "model": "minecraft:block/red_mushroom3",  "y": 0,   "uvlock": true, "weight": 1 },
+      { "model": "minecraft:block/red_mushroom3",  "y": 90,  "uvlock": true, "weight": 1 },
+      { "model": "minecraft:block/red_mushroom3",  "y": 180, "uvlock": true, "weight": 1 },
+      { "model": "minecraft:block/red_mushroom3",  "y": 270, "uvlock": true, "weight": 1 }
     ]
   }
 }

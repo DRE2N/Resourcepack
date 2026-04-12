@@ -1,22 +1,42 @@
 {
-  "erethon.biome.ambient.swamp": {
-    "sounds": [
-      "erethon:swamp_birds_mosquitoes"
-    ]
-  },
   "erethon.biome.ambient.creek": {
     "sounds": [
-      "erethon:creek_loop"
+      "erethon:ambient/creek_loop"
     ]
   },
-  "erethon.biome.ambient.ancient_forest": {
+   "erethon.biome.ambient.forest_birds_loop": {
     "sounds": [
-      "erethon:forest_birds_loop"
+      "erethon:ambient/forest_birds_loop"
     ]
   },
-  "erethon.biome.ambient.azuria_river": {
+    "erethon.biome.ambient.forest_birds_woodpecker_loop": {
     "sounds": [
-      "erethon:swamp_birds_mosquitoes"
+      "erethon:ambient/forest_birds_woodpecker_loop"
+    ]
+  },
+     "erethon.biome.ambient.forest_wind_birds_loop": {
+    "sounds": [
+      "erethon:ambient/forest_wind_birds_loop"
+    ]
+  },
+     "erethon.biome.ambient.river_birds_loop": {
+    "sounds": [
+      "erethon:ambient/river_birds_loop"
+    ]
+  },
+     "erethon.biome.ambient.rustling_leaves_loop": {
+    "sounds": [
+      "erethon:ambient/rustling_leaves_loop"
+    ]
+  },
+     "erethon.biome.ambient.stormy_sea_loop": {
+    "sounds": [
+      "erethon:ambient/stormy_sea_loop"
+    ]
+  },
+     "erethon.biome.ambient.swamp_birds_mosquitoes_loop": {
+    "sounds": [
+      "erethon:ambient/swamp_birds_mosquitoes_loop"
     ]
   }
 }

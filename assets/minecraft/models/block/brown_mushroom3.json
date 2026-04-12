@@ -1,0 +1,82 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "block/brown_mushroom_block",
+		"3": "block/mushroom_block_inside",
+		"4": "erethon:block/brown_mushroom_stem",
+		"particle": "block/brown_mushroom_block"
+	},
+	"elements": [
+		{
+			"name": "Stiel",
+			"from": [5.75, 0, 5.75],
+			"to": [7.25, 3, 7.25],
+			"rotation": {"angle": 0, "axis": "z", "origin": [5, 0, 5]},
+			"faces": {
+				"north": {"uv": [0, 0, 3, 2], "texture": "#4"},
+				"east": {"uv": [0, 0, 3, 2], "texture": "#4"},
+				"south": {"uv": [0, 0, 3, 2], "texture": "#4"},
+				"west": {"uv": [0, 0, 3, 2], "texture": "#4"},
+				"up": {"uv": [0, 0, 3, 2], "texture": "#4"},
+				"down": {"uv": [0, 0, 3, 2], "texture": "#4"}
+			}
+		},
+		{
+			"name": "Hut",
+			"from": [5, 2, 5],
+			"to": [8, 3.5, 8],
+			"rotation": {"angle": 5, "axis": "z", "origin": [6, 2, 5]},
+			"faces": {
+				"north": {"uv": [0, 0, 3, 1], "texture": "#1"},
+				"east": {"uv": [0, 0, 2, 3], "texture": "#1"},
+				"south": {"uv": [0, 0, 2, 2], "texture": "#1"},
+				"west": {"uv": [0, 0, 2, 2], "texture": "#1"},
+				"up": {"uv": [0, 0, 3, 3], "texture": "#1"},
+				"down": {"uv": [0, 0, 14.25, 14.25], "texture": "#3"}
+			}
+		},
+		{
+			"name": "Stiel",
+			"from": [7.75, 0, 7.75],
+			"to": [9.25, 3, 9.25],
+			"rotation": {"angle": 0, "axis": "z", "origin": [7, 1, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 3, 2], "texture": "#4"},
+				"east": {"uv": [0, 0, 3, 2], "texture": "#4"},
+				"south": {"uv": [0, 0, 3, 2], "texture": "#4"},
+				"west": {"uv": [0, 0, 3, 2], "texture": "#4"},
+				"up": {"uv": [0, 0, 3, 2], "texture": "#4"},
+				"down": {"uv": [0, 0, 3, 2], "texture": "#4"}
+			}
+		},
+		{
+			"name": "Hut",
+			"from": [7, 3, 7],
+			"to": [10, 4.5, 10],
+			"rotation": {"angle": -12.5, "axis": "z", "origin": [8, 3, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 3, 1], "texture": "#1"},
+				"east": {"uv": [0, 0, 2, 3], "texture": "#1"},
+				"south": {"uv": [0, 0, 2, 2], "texture": "#1"},
+				"west": {"uv": [0, 0, 2, 2], "texture": "#1"},
+				"up": {"uv": [0, 0, 3, 3], "texture": "#1"},
+				"down": {"uv": [0, 0, 14.25, 14.25], "texture": "#3"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Steinpilz1",
+			"origin": [10, 0, 5],
+			"color": 0,
+			"children": [0, 1]
+		},
+		{
+			"name": "Steinpilz2",
+			"origin": [10, 0, 5],
+			"color": 0,
+			"children": [2, 3]
+		}
+	]
+}
