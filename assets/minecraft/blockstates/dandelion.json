@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/dandelion",  "y": 0,   "uvlock": false, "weight": 1 },
+      { "model": "minecraft:block/dandelion",  "y": 90,  "uvlock": false, "weight": 1 },
+      { "model": "minecraft:block/dandelion",  "y": 180, "uvlock": false, "weight": 1 },
+      { "model": "minecraft:block/dandelion",  "y": 270, "uvlock": false, "weight": 1 },
+
+      { "model": "minecraft:block/dandelion_v2",   "y": 0,   "uvlock": false, "weight": 1 },
+      { "model": "minecraft:block/dandelion_v2",   "y": 90,  "uvlock": false, "weight": 1 },
+      { "model": "minecraft:block/dandelion_v2",   "y": 180, "uvlock": false, "weight": 1 },
+      { "model": "minecraft:block/dandelion_v2",   "y": 270, "uvlock": false, "weight": 1 }
+    ]
+  }
+}

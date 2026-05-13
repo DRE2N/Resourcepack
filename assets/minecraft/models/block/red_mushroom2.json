@@ -3,10 +3,10 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "erethon:block/red_mushroom_cap2",
-		"2": "erethon:block/red_mushrrom_gills",
-		"3": "erethon:block/red_mushroom_stem",
-		"particle": "erethon:block/red_mushroom_cap2"
+		"1": "minecraft:block/red_mushroom_cap2",
+		"2": "minecraft:block/red_mushroom_gills",
+		"3": "minecraft:block/red_mushroom_stem",
+		"particle": "minecraft:block/red_mushroom_cap2"
 	},
 	"elements": [
 		{
@@ -98,12 +98,14 @@
 		{
 			"name": "Fliegenpilz_gross",
 			"origin": [8, 0, 6],
+			"scope": 0,
 			"color": 0,
 			"children": [0, 1, 2]
 		},
 		{
 			"name": "Fliegenpilz_gross2",
 			"origin": [8, 0, 6],
+			"scope": 0,
 			"color": 0,
 			"children": [3, 4, 5]
 		}
