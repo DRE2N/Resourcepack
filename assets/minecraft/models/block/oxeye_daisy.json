@@ -2,11 +2,11 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "erethon:block/oxeye_daisy_I",
-		"1": "erethon:block/oxeye_daisy_II",
-		"2": "erethon:block/oxeye_daisy_flower_top",
-		"3": "erethon:block/oxeye_daisy_flower_bottem",
-		"particle": "erethon:block/oxeye_daisy_I"
+		"0": "minecraft:block/oxeye_daisy_I",
+		"1": "minecraft:block/oxeye_daisy_II",
+		"2": "minecraft:block/oxeye_daisy_flower_top",
+		"3": "minecraft:block/oxeye_daisy_flower_bottem",
+		"particle": "minecraft:block/oxeye_daisy_I"
 	},
 	"elements": [
 		{
@@ -144,17 +144,20 @@
 		{
 			"name": "group",
 			"origin": [7, 0, 7],
+			"scope": 0,
 			"color": 0,
 			"children": [
 				{
 					"name": "group",
 					"origin": [7, 0, 7],
+					"scope": 0,
 					"color": 0,
 					"children": [0, 1]
 				},
 				{
 					"name": "flowers",
 					"origin": [4, 11.5, 8],
+					"scope": 0,
 					"color": 0,
 					"children": [2, 3, 4, 5, 6, 7, 8, 9]
 				}
