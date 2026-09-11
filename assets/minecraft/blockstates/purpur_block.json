@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/paving_stones_1", "weight": 1 },
+      { "model": "minecraft:block/paving_stones_2", "weight": 3 }
+    ]
+  }
+}
